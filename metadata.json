@@ -1,0 +1,6 @@
+{
+  "name": "Multiverso Interactivo — Elige tu Propia Aventura",
+  "description": "Game Master interactivo y motor narrativo de Ciencia Ficción, Misterio Noir y Fantasía Oscura donde tus decisiones moldean el destino del multiverso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
